@@ -7,7 +7,7 @@ export const IMAGES = {
     heroBackground: "https://images.unsplash.com/photo-1605806616949-1e87b487bc2a?q=80&w=1887&auto=format&fit=crop",
     
     // Foto do Autor
-    authorProfile: "https://static.wixstatic.com/media/094002_9ca622dfcdfc46058b8387aa13419085~mv2.png/v1/fill/w_680,h_878,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/37b21552-f784-4983-8941-c5f75e9f39f5.png"
+    authorProfile: "https://static.wixstatic.com/media/094002_e05694a8fd5f45d98b45d379541f2ad1~mv2.png/v1/fill/w_339,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/094002_e05694a8fd5f45d98b45d379541f2ad1~mv2.png"
   };
   
   export const TEXTS = {
