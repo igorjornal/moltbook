@@ -1,5 +1,5 @@
 import React from 'react';
-import { TriangleAlert } from 'lucide-react';
+import { AlertTriangle } from 'lucide-react';
 
 interface CyberBorderProps {
   children: React.ReactNode;
@@ -45,7 +45,7 @@ export const CyberBorder: React.FC<CyberBorderProps> = ({ children, warningIcon 
             {/* Warning Icon at Bottom Center */}
             {warningIcon && (
                 <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-cyber-red animate-pulse">
-                   <TriangleAlert size={32} />
+                   <AlertTriangle size={32} />
                 </div>
             )}
             
